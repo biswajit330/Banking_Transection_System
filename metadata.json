@@ -1,0 +1,8 @@
+{
+  "name": "LedgerPay - Double-Entry Financial Engine",
+  "description": "High-reliability double-entry accounting ledger system with idempotent transactions, multi-account management, and live audit trails.",
+  "requestFrame": "none",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
